@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User form</title>
+</head>
+<body>
+    <h1> Another form</h1>
+    <style>
+        h1{
+            background-color: blue;
+            color: rgb(26, 152, 184);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: medium;
+        }
+    </style>
+    <form action="data.php">
+        <label for="female">Female: </label>
+        <input type="radio" name="gender" id="female" value="female">
+        <label for="male">Male: </label>
+        <input type="radio" name="gender" id="male" value="male">
+        <label for="Other">Other: </label>
+        <input type="radio" name="gender" id="other" value="others">
+        <br></br>
+        <label for="java">Java: </label>
+        <input type="checkbox" name="languaje" id="java" value="java">
+        <label for="python">Python: </label>
+        <input type="checkbox" name="languaje" id="python" value="python">
+        <label for="c">C: </label>
+        <input type="checkbox" name="languaje" id="c" value="c">
+        <input type="submit" name="submit" id="submit">
+    </form>
+</body>
+</html>
