@@ -1,0 +1,24 @@
+<Electronic-Products>
+
+ 
+ <Product name="Laptop-Lenovo IdeaPad Slim 3 15IAH8">
+  <Description> The Lenovo IdeaPad Slim 3 15IAH8 laptop combines a slim profile, power and speed to get you on the road day and night. It's durable enough to take on anything you throw at it and light enough to carry effortlessly. Don't give up anything with this smart, lightweight device based on military specification testing. </Description>
+  <Prize> 579.99€ </Prize>
+  <Features> 
+   <Feature name= "Processor" value= "Intel® Core™ i5-12450H"/>
+   <Feature name= "RAM" value= "16GB"/>
+   <Feature name= "Operative System" value= "Windows 11 Home"/>
+  </Features>
+ </Product>
+
+ <Product name= "Samsung Galaxy S24 Plus">
+  <Description> The iconic Galaxy design evolves and features even smaller frames, new rounded shapes and a beautiful anti-fingerprint matte finish. Plus, with One UI 6.1 technology, you can customize it to your liking and keep your data and content safe with Samsung Knox technology.</Description>
+  <Prize> 999.99€ </Prize>
+  <Features> 
+   <Feature name= "RAM" value= "12GB"/>
+   <Feature name= "Color" value= "Cobalt Violet"/>
+   <Feature name= "Storage" value= "512GB"/>
+  </Features>
+ </Product>
+
+</Electronic-Products>

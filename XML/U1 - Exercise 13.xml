@@ -1,0 +1,19 @@
+<person> 
+    <name> Helen Smith </name>
+    <profession> Software Engineer </profession>
+    <adress>
+        <city>New York </city>
+        <postalCode>: 64780 </postalCode>
+        <Country> USA </Country>
+    <Languages "Java" "Node.js" "JavaScript" "JSON">
+    <SocialProfiles>
+        <Social_Profile> 
+            <name> Twitter </name> 
+            <link> https://Twitter.com  </link>
+        </Social_Profile>
+        <Social_Profile>
+            <name> Facebook </name> 
+            <link> : https://www.facebook.com  </link>
+        </Social_Profile>
+    </SocialProfiles>
+</person>

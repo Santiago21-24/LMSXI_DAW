@@ -1,0 +1,29 @@
+<touristic_trip>
+    <travelers>
+        <traveler>
+            <name> Karl </name>
+            <surname> Urban </surname>
+        </traveler>
+        <traveler>
+            <name> Santiago </name>
+            <surname> Díaz </surname>
+        </traveler>
+    </travelers>
+    <begin_date> 1 de September 2024 </begin_date>
+    <end_date> 11 de Septimebre 2024 </end_date>
+    <Place_of_departure> Santiago de Compostela </Place_of_departure>
+    <Country name = "North Korea">
+        <cities>
+            <city name = "Pionyang ">
+                <hotel> Yanggakdo Hotel </hotel>
+                <number_of_nights> 5 nights </number_of_nights>
+            </city>
+            <city name = "Hamhŭng">
+                <hotel> Boryeong hotel </hotel>
+                <number_of_nights> 4 nights </number_of_nights>
+            </city>
+       </cities>
+    </Country>
+    <prize> 1.300$ </prize>
+</touristic_trip>
+

@@ -1,0 +1,47 @@
+<!--softwareCatalog.xml-->
+
+<catalog xmlns ="http.//akawindows.org" xmlns:office = "http.//office_operating_system.org" xmlns:oss = "Operating_Sytem.org">
+        <office:Software>
+
+            <office:name>Microsoft Word </office:name>
+            <office:version> 1.20.1 </office:version>
+            <office:developer> Microsoft </office:developer>
+
+        </office:Software>
+        <office:Software>
+
+            <office:name> Libre Office </office:name>
+            <office:version> 24.8 </office:version>
+            <offfice:developer> The Document Foundation </office:developer>
+
+        </office:Software>
+        <office:Software>
+
+            <office:name> Districtok <office:name>
+            <office:version> 1.16.5 </office:version>
+            <office:developer> JD Edwards </office:developer> 
+            
+        </office:Software>
+        <os:Software>
+
+            <os:name> Linux </os:name>
+            <os:version> 2.345.99 </os:version>
+            <os:developer> Willima Zabka </os:developer> 
+
+        </office:Software>
+        <os:Software>
+
+            <os:name> Windows </os:name>
+            <os:version> 11.00 </os:version>
+            <os:developer> Microsoft </os:developer> 
+
+        </office:Software>
+        <os:Software>
+
+            <os:name>  Lubuntu </os:name>
+            <os:version> 65.7 </os:version>
+            <os:developer> Gherman Sanch </os:developer> 
+        </office:Software>
+</catalog>
+
+

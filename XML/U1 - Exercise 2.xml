@@ -1,0 +1,48 @@
+<Programming_Language name "Python">
+   <Ratings> 20.17% </Ratings>
+   <Ranking_September23> 1 </Ranking_September23>
+   <Ranking_September24> 1 </Ranking_September24>
+   <Change> +6.01% </Change>
+</Programming_Language>
+
+<Programming_Language name "C++">
+   <Ratings> 10.75% </Ratings>
+   <Ranking_September23> 2 </Ranking_September23>
+   <Ranking_September24> 3 </Ranking_September24>
+   <Change> +0.09% </Change>
+</Programming_Language>
+
+<Programming_Language name "Java">
+  <Ratings> 9.45% </Ratings>
+  <Ranking_September23> 3 </Ranking_September23>
+  <Ranking_September24> 4 </Ranking_September24>
+  <Change> -0.04% </Change>
+</Programming_Language>
+
+<Programming_Language name "C">
+  <Ratings> 8.95% </Ratings>
+  <Ranking_September23> 4 </Ranking_September23>
+  <Ranking_September24> 2 </Ranking_September24>
+  <Change> -2.08% </Change>
+</Programming_Language>
+
+<Programming_Language name "C#">
+  <Ratings> 6.08% </Ratings>
+  <Ranking_September23> 5 </Ranking_September23>
+  <Ranking_September24> 5 </Ranking_September24>
+  <Change> -1.22% </Change>
+</Programming_Language>
+
+<Programming_Language name "Javascript">
+  <Ratings> 3.92% </Ratings>
+  <Ranking_September23> 6 </Ranking_September23>
+  <Ranking_September24> 6 </Ranking_September24>
+  <Change> +0.62% </Change>
+</Programming_Language>
+
+<Programming_Language name "Visual Basic">
+  <Ratings> 2.07% </Ratings>
+  <Ranking_September23> 7 </Ranking_September23>
+  <Ranking_September24> 7 </Ranking_September24>
+  <Change> +0.48% </Change>
+<Programming_Language>

@@ -1,0 +1,19 @@
+{
+    "director's name": "Marlon Brando", 
+    "birthdate": 1924,
+    "birthplace": "Omaha, Nebraska, United states",
+    "death date": 2004,
+    "death place": " Westwood, Los Ángeles, California, United States",
+    "Movies": [
+        {
+            "name": "El Padrino",
+            "filming_date": 1972
+        },
+        {
+            "name": "Apocalypse Now",
+            "filming_date": 1979
+
+        }
+    ]
+
+}
